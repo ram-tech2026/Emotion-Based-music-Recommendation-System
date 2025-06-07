@@ -1,4 +1,4 @@
-# EMOTIONAL_SENSING_MUSIC_THERAPHY </br >(Mini-project)
+# EMOTIONAL_SENSING_MUSIC_RECOMMENDATION SYSTEM</br >(Mini-project)
 
 
 This project is a Streamlit application that recommends songs based on users' captured emotions. It uses computer vision techniques to detect emotions from video frames and provides song recommendations on YouTube or Spotify.
